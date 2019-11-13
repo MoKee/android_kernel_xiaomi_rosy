@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f63e8f8d_ea3a05b7",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1442
+      },
+      "writtenOn": "2019-11-13T19:33:58Z",
+      "side": 1,
+      "message": "看起来是个现成的补丁，但你没有保留原作者相关的信息，而是直接把他的改动抄了一遍。通常补丁都应该cherry-pick（当然手打也行但容易漏东西）。这个提交被打回了，需要更正。",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 37
+      },
+      "revId": "5093639320e43983da83a12c7d39204f8c160c37",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62",
+      "unresolved": true
+    }
+  ]
+}
