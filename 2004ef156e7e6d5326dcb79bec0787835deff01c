@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "e8a91833_4555f2d4",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1442
+      },
+      "writtenOn": "2019-11-14T03:15:51Z",
+      "side": 1,
+      "message": "authorship 仍然未更正。",
+      "range": {
+        "startLine": 2,
+        "startChar": 0,
+        "endLine": 3,
+        "endChar": 37
+      },
+      "revId": "2004ef156e7e6d5326dcb79bec0787835deff01c",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "cc39e9e9_f2af5b05",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 3
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1442
+      },
+      "writtenOn": "2019-11-14T03:15:51Z",
+      "side": 1,
+      "message": "作者信息可不是这么加的…",
+      "range": {
+        "startLine": 25,
+        "startChar": 0,
+        "endLine": 27,
+        "endChar": 121
+      },
+      "revId": "2004ef156e7e6d5326dcb79bec0787835deff01c",
+      "serverId": "83d63960-fecf-4fd1-a7f6-e01518638a62",
+      "unresolved": true
+    }
+  ]
+}
